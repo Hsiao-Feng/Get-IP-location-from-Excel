@@ -23,7 +23,7 @@ http://www.ipcz88.com/soft/setup.zip
 ```python
 num = 100 #查询的总行数
 file = 'ip.xlsx' #文件名，需要在同一目录下
-key = 0 #0=只显示地区，1=只显示详细地址（如某某网吧）
+key = 0 #0=只显示地区（如广东省深圳市），1=只显示详细地址（如某某网吧）
 ```
 ### 五、运行
 打开`命令提示符`或`PowerShell`，切换到Python文件、Excel文件、`qqwry.dat`文件所在的同一文件夹：
