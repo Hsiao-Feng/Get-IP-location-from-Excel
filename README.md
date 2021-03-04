@@ -15,7 +15,9 @@ pip install openpyxl
 | **1**  | 192.168.0.1 |   |
 | **2**  | 8.8.8.8 |   |
 ### 三、下载纯真IP库文件
-http://www.ipcz88.com/soft/setup.zip
+https://www.cz88.net/soft/setup.zip
+
+若无法访问，请自行搜索“纯真IP”。
 
 安装后在**安装目录**找到`qqwry.dat`，复制到与Excel文件相同的文件夹。
 ### 四、Python 文件修改
